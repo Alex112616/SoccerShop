@@ -1,0 +1,48 @@
+{
+  "11292" : {
+    "name" : "Футболки Барселоны",
+    "cost" : 4500,
+    "description" : "Мощаная, опасная, красивая",
+    "image" : "assets/images/agency/2107.jpg"
+  },
+  "11294" : {
+    "name" : "Футбольные мячи",
+    "cost" : 1200,
+    "description" : "Мощаная, опасная, красивая",
+    "image" : "assets/images/agency/1111.jpg"
+  },
+  "11295" : {
+    "name" : "Футболки",
+    "cost" : 4500,
+    "description" : "Мощаная, опасная, красивая",
+    "image" : "assets/images/agency/2109.jpg"
+  },
+  "11296" : {
+  "name" : "Гетры",
+  "cost" : 1300,
+  "description" : "Мощаная, опасная, красивая",
+  "image" : "assets/images/agency/2111.jpg"
+  },
+
+
+  "11297" : {
+    "name" : "Вратарские перчатки",
+    "cost" : 2000,
+    "description" : "Мощаная, опасная, красивая",
+    "image" : "assets/images/agency/2112.jpg"
+  },
+
+  "11301" : {
+    "name" : "Вратарские перчатки",
+    "cost" : 2000,
+    "description" : "Мощаная, опасная, красивая",
+    "image" : "assets/images/agency/2112.jpg"
+  },
+  "11301" : {
+    "name" : "Бутсы",
+    "cost" : 10000,
+    "description" : "Мощаная, опасная, красивая",
+    "image" : "assets/images/agency/2172.jpg"
+  }
+
+}
